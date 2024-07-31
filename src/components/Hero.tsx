@@ -41,9 +41,9 @@ export function Hero() {
                 </dd>
               </div>
               <div>
-                <dt className="font-mono text-sm text-blue-600">??</dt>
+                <dt className="font-mono text-sm text-blue-600">Collaborative Agents</dt>
                 <dd className="mt-0.5 text-2xl font-semibold tracking-tight text-blue-900">
-                  Damian Loch
+                  6+
                 </dd>
               </div>
             </div>
